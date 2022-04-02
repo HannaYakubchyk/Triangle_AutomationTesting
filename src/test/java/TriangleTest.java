@@ -2,9 +2,6 @@
 import org.junit.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
-
-import java.io.IOException;
-
 import static org.junit.Assert.*;
 
 public class TriangleTest {
